@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Amaranth';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20220924101042im_/https://fonts.gstatic.com/s/amaranth/v18/KtkuALODe433f0j1zMnFHdU.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 10:10:42 Sep 24, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:24:45 Jan 30, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 160.606
+  exclusion.robots: 0.284
+  exclusion.robots.policy: 0.26
+  cdx.remote: 0.193
+  esindex: 0.015
+  LoadShardBlock: 83.125 (3)
+  PetaboxLoader3.datanode: 76.833 (4)
+  CDXLines.iter: 36.813 (3)
+  load_resource: 132.383
+  PetaboxLoader3.resolve: 82.556
+*/

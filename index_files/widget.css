@@ -1,0 +1,22 @@
+.progress-spinner.svelte-36hdj9{position:absolute;transition:opacity 300ms ease;left:50%;top:50%;z-index:1213;overflow:hidden}svg.svelte-36hdj9{position:absolute;transform:rotate(-90deg);top:0;left:0;transform-origin:center;overflow:visible;animation:svelte-36hdj9-mat-progress-spinner-linear-rotate 2s linear infinite}circle.svelte-36hdj9{fill:transparent;transform-origin:center;transition:stroke-dashoffset 225ms linear;transition-property:stroke;animation-name:svelte-36hdj9-mat-progress-spinner-stroke-rotate-100;animation-duration:4s;animation-timing-function:ease-in-out;animation-iteration-count:infinite}@keyframes svelte-36hdj9-mat-progress-spinner-linear-rotate{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}@keyframes svelte-36hdj9-mat-progress-spinner-stroke-rotate-100{0%{stroke-dashoffset:268.60617px;transform:rotate(0)}12.5%{stroke-dashoffset:56.54867px;transform:rotate(0)}12.5001%{stroke-dashoffset:56.54867px;transform:rotateX(180deg) rotate(72.5deg)}25%{stroke-dashoffset:268.60617px;transform:rotateX(180deg) rotate(72.5deg)}25.0001%{stroke-dashoffset:268.60617px;transform:rotate(270deg)}37.5%{stroke-dashoffset:56.54867px;transform:rotate(270deg)}37.5001%{stroke-dashoffset:56.54867px;transform:rotateX(180deg) rotate(161.5deg)}50%{stroke-dashoffset:268.60617px;transform:rotateX(180deg) rotate(161.5deg)}50.0001%{stroke-dashoffset:268.60617px;transform:rotate(180deg)}62.5%{stroke-dashoffset:56.54867px;transform:rotate(180deg)}62.5001%{stroke-dashoffset:56.54867px;transform:rotateX(180deg) rotate(251.5deg)}75%{stroke-dashoffset:268.60617px;transform:rotateX(180deg) rotate(251.5deg)}75.0001%{stroke-dashoffset:268.60617px;transform:rotate(90deg)}87.5%{stroke-dashoffset:56.54867px;transform:rotate(90deg)}87.5001%{stroke-dashoffset:56.54867px;transform:rotateX(180deg) rotate(341.5deg)}100%{stroke-dashoffset:268.60617px;transform:rotateX(180deg) rotate(341.5deg)}}.item-image.svelte-m512jd{width:100%;height:100%;overflow:hidden;opacity:1;user-select:none;transition:opacity 0.3s ease;object-fit:cover}.item-image.hidden.svelte-m512jd{opacity:0}
+/*
+     FILE ARCHIVED ON 04:37:26 Aug 31, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:24:34 Jan 30, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 85.894
+  exclusion.robots: 0.1
+  exclusion.robots.policy: 0.092
+  RedisCDXSource: 10.69
+  esindex: 0.009
+  LoadShardBlock: 55.116 (3)
+  PetaboxLoader3.datanode: 134.843 (5)
+  CDXLines.iter: 17.381 (3)
+  load_resource: 311.22 (2)
+  PetaboxLoader3.resolve: 172.493 (2)
+*/
