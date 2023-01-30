@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Amaranth';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20211026104329im_/http://fonts.gstatic.com/s/amaranth/v11/KtkoALODe433f0j1zMnALdKCww.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Amaranth';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://web.archive.org/web/20211026104329im_/http://fonts.gstatic.com/s/amaranth/v11/KtkrALODe433f0j1zMnAJWmn02P3Fw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Amaranth';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20211026104329im_/http://fonts.gstatic.com/s/amaranth/v11/KtkuALODe433f0j1zMnFHdU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Amaranth';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://web.archive.org/web/20211026104329im_/http://fonts.gstatic.com/s/amaranth/v11/KtkpALODe433f0j1zMF-OMWl42Q.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 10:43:29 Oct 26, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:51:22 Jan 30, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 257.116
+  exclusion.robots: 0.105
+  exclusion.robots.policy: 0.095
+  RedisCDXSource: 0.706
+  esindex: 0.01
+  LoadShardBlock: 42.351 (3)
+  PetaboxLoader3.datanode: 51.2 (4)
+  CDXLines.iter: 57.605 (3)
+  load_resource: 182.354
+  PetaboxLoader3.resolve: 146.962
+*/
