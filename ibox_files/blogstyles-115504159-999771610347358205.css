@@ -1,0 +1,86 @@
+.blog-post .blog-separator {
+	border-bottom: 1px solid #dd664e !important;
+}
+.blog-post {
+	background:   !important;
+	padding: 0px !important;
+	border: 0px solid #ffffff !important;
+	border-radius: 0px !important;
+	margin-bottom: 40px !important;
+}
+.blog-sidebar .column-blog {
+	background-color:  ; 
+	border: 0px solid #ddd;
+	border-radius: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+#blogTable .blog-post .blog-header, .blog-post .blog-header h2.blog-title {
+	text-align: left !important;
+}
+.blog-post .blog-header h2.blog-title a {
+	color: #dd664e !important;
+	font-size: 36px !important;
+}
+.blog-post .blog-header {
+	background: #ffffff!important;
+	padding: 0px !important;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border: 0px solid #ffffff!important;
+}
+.blog-header .blog-comments a {
+	color: #dd664e!important;
+}
+.blog-comments-bottom a {
+	color:  !important;
+}
+#blogTable .blog-post .blog-date .date-text{
+	color: #dd664e;
+}
+@media(max-width: 767px) {
+	.blog-post .blog-header h2.blog-title a {
+		font-size: 15px !important;
+	}
+}
+
+.waddons-toggle-title {
+	cursor: pointer;
+}
+
+.waddons-toggle-title:after {
+	content: '+';
+	display: inline-block;
+	margin-left: 7px;
+	vertical-align: middle;
+	-webkit-transition: transform .3s ease;
+	transition: transform .3s ease;
+	font-size: 20px;
+}
+
+.waddons-toggle-title.opened:after {
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+/*
+     FILE ARCHIVED ON 13:45:00 Nov 02, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:51:22 Jan 30, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 420.409
+  exclusion.robots: 0.173
+  exclusion.robots.policy: 0.163
+  cdx.remote: 0.08
+  esindex: 0.011
+  LoadShardBlock: 380.639 (3)
+  PetaboxLoader3.datanode: 120.264 (5)
+  CDXLines.iter: 16.062 (3)
+  load_resource: 106.803
+  PetaboxLoader3.resolve: 52.618
+  loaddict: 21.991
+*/
