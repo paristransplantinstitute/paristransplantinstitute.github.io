@@ -33,8 +33,8 @@ delete Weebly.templates[''];
 
 }
 /*
-     FILE ARCHIVED ON 13:21:47 Oct 28, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:24:17 Jan 30, 2023.
+     FILE ARCHIVED ON 11:38:18 Mar 27, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:19:16 Jan 30, 2023.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -42,15 +42,14 @@ delete Weebly.templates[''];
 */
 /*
 playback timings (ms):
-  captures_list: 81.42
-  exclusion.robots: 0.116
-  exclusion.robots.policy: 0.105
-  cdx.remote: 0.098
-  esindex: 0.016
-  LoadShardBlock: 46.154 (3)
-  PetaboxLoader3.datanode: 43.214 (5)
-  CDXLines.iter: 24.819 (3)
-  load_resource: 87.211
-  PetaboxLoader3.resolve: 58.47
-  loaddict: 23.216
+  captures_list: 126.723
+  exclusion.robots: 0.067
+  exclusion.robots.policy: 0.06
+  cdx.remote: 0.059
+  esindex: 0.01
+  LoadShardBlock: 99.444 (3)
+  PetaboxLoader3.datanode: 290.565 (5)
+  CDXLines.iter: 15.281 (3)
+  load_resource: 383.408 (2)
+  PetaboxLoader3.resolve: 133.462 (2)
 */

@@ -16,8 +16,8 @@ eb||(eb=a.setInterval(fa.fx.tick,fa.fx.interval))},fa.fx.stop=function(){a.clear
 
 }
 /*
-     FILE ARCHIVED ON 11:49:36 Oct 28, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:24:35 Jan 30, 2023.
+     FILE ARCHIVED ON 04:28:00 Feb 13, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:20:58 Jan 30, 2023.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -25,14 +25,14 @@ eb||(eb=a.setInterval(fa.fx.tick,fa.fx.interval))},fa.fx.stop=function(){a.clear
 */
 /*
 playback timings (ms):
-  captures_list: 99.785
-  exclusion.robots: 0.067
-  exclusion.robots.policy: 0.061
-  cdx.remote: 0.058
-  esindex: 0.009
-  LoadShardBlock: 43.157 (3)
-  PetaboxLoader3.datanode: 53.538 (4)
-  CDXLines.iter: 14.62 (3)
-  load_resource: 289.359
-  PetaboxLoader3.resolve: 261.823
+  captures_list: 135.229
+  exclusion.robots: 0.204
+  exclusion.robots.policy: 0.185
+  RedisCDXSource: 1.284
+  esindex: 0.017
+  LoadShardBlock: 59.131 (3)
+  PetaboxLoader3.datanode: 57.095 (4)
+  CDXLines.iter: 21.998 (3)
+  load_resource: 168.102
+  PetaboxLoader3.resolve: 152.721
 */

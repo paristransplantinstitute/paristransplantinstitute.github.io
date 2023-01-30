@@ -2954,8 +2954,8 @@ if (typeof module != 'undefined' && module.exports) {
 
 }
 /*
-     FILE ARCHIVED ON 13:21:48 Oct 28, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:24:22 Jan 30, 2023.
+     FILE ARCHIVED ON 09:06:13 Feb 06, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:19:19 Jan 30, 2023.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -2963,15 +2963,14 @@ if (typeof module != 'undefined' && module.exports) {
 */
 /*
 playback timings (ms):
-  captures_list: 120.602
-  exclusion.robots: 0.069
-  exclusion.robots.policy: 0.063
-  cdx.remote: 0.058
-  esindex: 0.009
-  LoadShardBlock: 84.415 (3)
-  PetaboxLoader3.datanode: 77.962 (5)
-  CDXLines.iter: 16.284 (3)
-  load_resource: 84.601
-  PetaboxLoader3.resolve: 34.795
-  loaddict: 37.966
+  captures_list: 137.339
+  exclusion.robots: 0.084
+  exclusion.robots.policy: 0.077
+  RedisCDXSource: 2.825
+  esindex: 0.013
+  LoadShardBlock: 111.247 (3)
+  PetaboxLoader3.datanode: 134.132 (4)
+  CDXLines.iter: 20.129 (3)
+  load_resource: 252.792
+  PetaboxLoader3.resolve: 221.413
 */

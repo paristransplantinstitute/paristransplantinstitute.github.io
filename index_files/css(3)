@@ -2,12 +2,12 @@
   font-family: 'Amaranth';
   font-style: normal;
   font-weight: 400;
-  src: url(https://web.archive.org/web/20220924101042im_/https://fonts.gstatic.com/s/amaranth/v18/KtkuALODe433f0j1zMnFHdU.ttf) format('truetype');
+  src: local('Amaranth Regular'), local('Amaranth-Regular'), url(https://web.archive.org/web/20200319205713im_/http://fonts.gstatic.com/s/amaranth/v10/KtkuALODe433f0j1zMnFHdU.ttf) format('truetype');
 }
 
 /*
-     FILE ARCHIVED ON 10:10:42 Sep 24, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:24:45 Jan 30, 2023.
+     FILE ARCHIVED ON 20:57:13 Mar 19, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:21:09 Jan 30, 2023.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -15,14 +15,14 @@
 */
 /*
 playback timings (ms):
-  captures_list: 160.606
-  exclusion.robots: 0.284
-  exclusion.robots.policy: 0.26
-  cdx.remote: 0.193
-  esindex: 0.015
-  LoadShardBlock: 83.125 (3)
-  PetaboxLoader3.datanode: 76.833 (4)
-  CDXLines.iter: 36.813 (3)
-  load_resource: 132.383
-  PetaboxLoader3.resolve: 82.556
+  captures_list: 194.311
+  exclusion.robots: 0.073
+  exclusion.robots.policy: 0.066
+  RedisCDXSource: 0.476
+  esindex: 0.007
+  LoadShardBlock: 157.636 (3)
+  PetaboxLoader3.datanode: 182.343 (4)
+  CDXLines.iter: 29.476 (3)
+  load_resource: 155.695
+  PetaboxLoader3.resolve: 86.042
 */

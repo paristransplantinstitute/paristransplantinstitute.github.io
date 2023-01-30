@@ -2,9 +2,9 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, div.paragraph, blockq
 ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fieldset, input { margin: 0; padding: 0; }
  input[type='text'], input[type='email'], textarea, select, .wsite-form-field input[type='radio'], .wsite-com-product-option-groups input[type='radio'], .wsite-form-field input[type='checkbox'], .wsite-com-product-option-groups input[type='checkbox'] { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; -webkit-appearance: none; -moz-appearance: none; appearance: none; text-shadow: none; }
  textarea { resize: none; }
- @font-face { font-family: 'Cento'; src: url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-light.eot?1642291043'); src: url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-light.eot?1642291043') format('eot'), url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-light.woff2?1642291043') format('woff2'), url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-light.woff?1642291043') format('woff'), url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-light.ttf?1642291043') format('truetype'); font-weight: 100; }
- @font-face { font-family: 'Cento'; src: url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-medium.eot?1642291043'); src: url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-medium.eot?1642291043') format('eot'), url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-medium.woff2?1642291043') format('woff2'), url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-medium.woff?1642291043') format('woff'), url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-medium.ttf?1642291043') format('truetype'); font-weight: 500; }
- @font-face { font-family: 'Cento'; src: url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-bold.eot?1642291043'); src: url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-bold??1642291043') format('eot'), url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-bold.woff2?1642291043') format('woff2'), url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-bold.woff?1642291043') format('woff'), url('/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-bold.ttf?1642291043') format('truetype'); font-weight: 600; }
+ @font-face { font-family: 'Cento'; src: url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-light.eot?1642291043'); src: url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-light.eot?1642291043') format('eot'), url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-light.woff2?1642291043') format('woff2'), url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-light.woff?1642291043') format('woff'), url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-light.ttf?1642291043') format('truetype'); font-weight: 100; }
+ @font-face { font-family: 'Cento'; src: url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-medium.eot?1642291043'); src: url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-medium.eot?1642291043') format('eot'), url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-medium.woff2?1642291043') format('woff2'), url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-medium.woff?1642291043') format('woff'), url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-medium.ttf?1642291043') format('truetype'); font-weight: 500; }
+ @font-face { font-family: 'Cento'; src: url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-bold.eot?1642291043'); src: url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-bold??1642291043') format('eot'), url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-bold.woff2?1642291043') format('woff2'), url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-bold.woff?1642291043') format('woff'), url('/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/fonts/Cento-bold.ttf?1642291043') format('truetype'); font-weight: 600; }
  html { height: 100%; }
  body { width: 100%; height: 100%; background: #ffffff; color: #587b98; font-family: 'Cento', sans-serif; font-size: 16px; font-weight: 500; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
  a { color: #9bb0c1; text-decoration: none; }
@@ -15,7 +15,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  p { font-family: 'Cento', sans-serif; font-size: 16px; font-weight: 500; line-height: 1.65; margin: 0 auto 30px; }
  blockquote { position: relative; padding: 1.5em 2.5em; background: rgba(0,0,0,0.1); font-family: 'Cento', sans-serif; font-size: 16px; font-weight: 500; line-height: 1.65; text-align: left; margin: 0 auto 30px; }
  blockquote:before { position: absolute; content: '\201C'; top: 0.75em; left: 0.5em; color: rgba(88,123,152,0.25); font-size: 2em; line-height: 1; font-weight: bold; }
- .wsite-header-section { background: url(/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/images/default-bg.jpg?1642291043) no-repeat center center; background-size: cover; }
+ .wsite-header-section { background: url(/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/images/default-bg.jpg?1642291043) no-repeat center center; background-size: cover; }
  .wsite-header-section { height: 600px; }
  .wsite-header-section:not(.wsite-section-bg-color):before { content: ''; display: block; position: absolute; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.1); }
  .banner-wrap { position: relative; height: 100%; background: #587b98; color: #ffffff; }
@@ -63,8 +63,8 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .wsite-form-input, .wsite-search-element-input, .form-select, .wsite-form-field select, .wsite-com-product-option-groups select, .form-radio-container, input[type='radio'], input[type='checkbox'] { color: #587b98; font-family: 'Cento', sans-serif; font-size: 14px; font-weight: normal; line-height: 1; border-radius: 0; -webkit-transition: all 300ms ease; -moz-transition: all 300ms ease; -ms-transition: all 300ms ease; transition: all 300ms ease; }
  .wsite-form-input, .wsite-search-element-input, .form-select, .wsite-form-field select, .wsite-com-product-option-groups select { height: auto; max-width: 370px; padding: 10px 20px !important; margin-bottom: 10px; color: #587b98; background: rgba(0,0,0,0.1); border: none; -webkit-box-shadow: none; -moz-box-shadow: none; -ms-box-shadow: none; box-shadow: none; }
  .wsite-form-input:hover, .wsite-form-input:focus, .wsite-form-input--focus, .wsite-search-element-input:hover, .wsite-search-element-input:focus, .form-select:hover, .form-select:focus, .wsite-form-field select:hover, .wsite-form-field select:focus, .wsite-com-product-option-groups select:hover, .wsite-com-product-option-groups select:focus { background: #ffffff; -webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.1); -moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.1); -ms-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.1); box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.1); -webkit-transition: all 200ms ease; -moz-transition: all 200ms ease; -ms-transition: all 200ms ease; transition: all 200ms ease; }
- .form-select, .wsite-form-field select, .wsite-com-product-option-groups select { text-indent: 0.01px; text-overflow: ''; height: 40px; background: rgba(0,0,0,0.1) url(/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/images/select-dropdown-light.svg?1642291043) 97% center no-repeat; }
- .form-select:hover, .form-select:focus, .wsite-form-field select:hover, .wsite-form-field select:focus, .wsite-com-product-option-groups select:hover, .wsite-com-product-option-groups select:focus { background: #ffffff url(/web/20221028132201im_/https://www.paristransplantgroup.org/files/theme/images/select-dropdown-light.svg?1642291043) 97% center no-repeat; }
+ .form-select, .wsite-form-field select, .wsite-com-product-option-groups select { text-indent: 0.01px; text-overflow: ''; height: 40px; background: rgba(0,0,0,0.1) url(/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/images/select-dropdown-light.svg?1642291043) 97% center no-repeat; }
+ .form-select:hover, .form-select:focus, .wsite-form-field select:hover, .wsite-form-field select:focus, .wsite-com-product-option-groups select:hover, .wsite-com-product-option-groups select:focus { background: #ffffff url(/web/20220206085611im_/https://www.paristransplantgroup.org/files/theme/images/select-dropdown-light.svg?1642291043) 97% center no-repeat; }
  .wsite-form-field label, .wsite-com-product-option-groups label { margin-bottom: 5px; }
  .wsite-form-field input[type='radio'], .wsite-form-field input[type='checkbox'], .wsite-com-product-option-groups input[type='radio'], .wsite-com-product-option-groups input[type='checkbox'] { width: 20px; height: 20px; border: 1px solid rgba(0,0,0,0.1) !important; }
  .wsite-form-field input[type='radio']:hover, .wsite-form-field input[type='radio']:checked, .wsite-form-field input[type='checkbox']:hover, .wsite-form-field input[type='checkbox']:checked, .wsite-com-product-option-groups input[type='radio']:hover, .wsite-com-product-option-groups input[type='radio']:checked, .wsite-com-product-option-groups input[type='checkbox']:hover, .wsite-com-product-option-groups input[type='checkbox']:checked { background: rgba(88,123,152,0.05); }
@@ -285,8 +285,8 @@ div.paragraph ul, div.paragraph ul li { list-style: disc outside !important; }
 div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; }
 
 /*
-     FILE ARCHIVED ON 13:22:01 Oct 28, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:24:17 Jan 30, 2023.
+     FILE ARCHIVED ON 08:56:11 Feb 06, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:19:15 Jan 30, 2023.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -294,15 +294,14 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 */
 /*
 playback timings (ms):
-  captures_list: 88.032
-  exclusion.robots: 0.115
-  exclusion.robots.policy: 0.104
-  RedisCDXSource: 20.455
-  esindex: 0.01
-  LoadShardBlock: 40.422 (3)
-  PetaboxLoader3.datanode: 48.07 (5)
-  CDXLines.iter: 23.434 (3)
-  load_resource: 76.866
-  PetaboxLoader3.resolve: 25.608
-  loaddict: 38.172
+  captures_list: 177.598
+  exclusion.robots: 0.08
+  exclusion.robots.policy: 0.072
+  cdx.remote: 0.071
+  esindex: 0.011
+  LoadShardBlock: 134.456 (3)
+  PetaboxLoader3.datanode: 126.391 (4)
+  CDXLines.iter: 17.568 (3)
+  load_resource: 67.074
+  PetaboxLoader3.resolve: 27.737
 */

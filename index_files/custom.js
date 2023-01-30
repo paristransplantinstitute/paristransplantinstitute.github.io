@@ -235,8 +235,8 @@ jQuery(function($) {
 
 }
 /*
-     FILE ARCHIVED ON 13:22:09 Oct 28, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:24:25 Jan 30, 2023.
+     FILE ARCHIVED ON 10:04:25 Feb 06, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:19:19 Jan 30, 2023.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -244,15 +244,14 @@ jQuery(function($) {
 */
 /*
 playback timings (ms):
-  captures_list: 141.327
-  exclusion.robots: 0.066
-  exclusion.robots.policy: 0.059
-  cdx.remote: 0.058
-  esindex: 0.008
-  LoadShardBlock: 111.913 (3)
-  PetaboxLoader3.datanode: 99.524 (5)
-  CDXLines.iter: 17.457 (3)
-  load_resource: 162.786
-  PetaboxLoader3.resolve: 37.199
-  loaddict: 120.287
+  captures_list: 111.871
+  exclusion.robots: 0.1
+  exclusion.robots.policy: 0.09
+  RedisCDXSource: 0.678
+  esindex: 0.012
+  LoadShardBlock: 84.216 (3)
+  PetaboxLoader3.datanode: 70.059 (4)
+  CDXLines.iter: 22.887 (3)
+  PetaboxLoader3.resolve: 58.324 (2)
+  load_resource: 83.302
 */
