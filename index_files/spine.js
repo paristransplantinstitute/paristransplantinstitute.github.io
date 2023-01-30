@@ -16,8 +16,8 @@ return"[object Array]"===Object.prototype.toString.call(a)},isBlank:function(a){
 
 }
 /*
-     FILE ARCHIVED ON 11:49:36 Oct 28, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:24:40 Jan 30, 2023.
+     FILE ARCHIVED ON 04:27:59 Feb 13, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:21:04 Jan 30, 2023.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -25,14 +25,14 @@ return"[object Array]"===Object.prototype.toString.call(a)},isBlank:function(a){
 */
 /*
 playback timings (ms):
-  captures_list: 97.584
-  exclusion.robots: 0.09
-  exclusion.robots.policy: 0.081
-  cdx.remote: 0.077
-  esindex: 0.036
-  LoadShardBlock: 45.799 (3)
-  PetaboxLoader3.datanode: 45.431 (4)
-  CDXLines.iter: 16.252 (3)
-  load_resource: 1200.485
-  PetaboxLoader3.resolve: 1174.949
+  captures_list: 562.487
+  exclusion.robots: 0.073
+  exclusion.robots.policy: 0.066
+  RedisCDXSource: 1.129
+  esindex: 0.007
+  LoadShardBlock: 509.991 (3)
+  PetaboxLoader3.resolve: 803.747 (3)
+  PetaboxLoader3.datanode: 37.823 (4)
+  CDXLines.iter: 19.405 (3)
+  load_resource: 366.568
 */

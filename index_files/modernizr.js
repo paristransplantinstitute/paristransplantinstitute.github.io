@@ -1192,7 +1192,7 @@ window.Modernizr = (function( window, document, undefined ) {
 }
 /*
      FILE ARCHIVED ON 14:53:26 Jan 17, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:24:38 Jan 30, 2023.
+     INTERNET ARCHIVE ON 21:19:24 Jan 30, 2023.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -1200,14 +1200,14 @@ window.Modernizr = (function( window, document, undefined ) {
 */
 /*
 playback timings (ms):
-  captures_list: 91.421
-  exclusion.robots: 0.102
-  exclusion.robots.policy: 0.092
-  cdx.remote: 0.088
-  esindex: 0.012
-  LoadShardBlock: 57.59 (3)
-  PetaboxLoader3.datanode: 41.896 (4)
-  CDXLines.iter: 23.33 (3)
-  load_resource: 59.606
-  PetaboxLoader3.resolve: 46.942
+  captures_list: 131.09
+  exclusion.robots: 0.129
+  exclusion.robots.policy: 0.117
+  RedisCDXSource: 5.856
+  esindex: 0.011
+  LoadShardBlock: 92.264 (3)
+  PetaboxLoader3.datanode: 56.734 (4)
+  CDXLines.iter: 29.679 (3)
+  load_resource: 104.374
+  PetaboxLoader3.resolve: 100.281
 */
